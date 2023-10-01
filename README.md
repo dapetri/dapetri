@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch)](https://skillicons.dev)
 <!--
 **dapetri/dapetri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
