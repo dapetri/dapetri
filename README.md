@@ -1,6 +1,7 @@
-### Hi there 👋
-👁️-💙-🥧🔦.
+
 <p align="center">
+  ### Hi there 👋
+  👁️-💙-🥧🔦.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,pytorch,react,git" />
   </a>
