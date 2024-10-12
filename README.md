@@ -2,11 +2,11 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,java,vim,docker,kubernetes,git" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,vim,docker,kubernetes,git" />
   </a>
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dapetri?theme=transparent&ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/dapetri?ext=heatmap)
 
 <!--
 **dapetri/dapetri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
