@@ -4,9 +4,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,java,vim,docker,kubernetes,git" />
   </a>
-  <text>
+  <p>
     ![Leetcode Stats](https://leetcard.jacoblin.cool/dapetri?theme=transparent)
-  </text>
+  </p>
 </p>
 
 <!--
