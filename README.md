@@ -5,6 +5,9 @@
     <img src="https://skillicons.dev/icons?i=py,cpp,java,vim,docker,kubernetes,git" />
   </a>
 </p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/dapetri?theme=transparent)
+
 <!--
 **dapetri/dapetri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
