@@ -6,7 +6,7 @@
   </a>
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dapetri?ext=heatmap,contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/dapetri?ext=contest)
 
 <!--
 **dapetri/dapetri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
